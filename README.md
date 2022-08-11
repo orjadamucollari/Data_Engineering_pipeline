@@ -1,4 +1,4 @@
-## Data Engineer project with MYSQL, Python, and AWS
+## Data Pipeline Automation with MYSQL, Python, and AWS
 
 This project was about exploring the field of Data Engineering through a real-life business case.
 
